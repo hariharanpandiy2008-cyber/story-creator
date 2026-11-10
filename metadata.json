@@ -1,0 +1,6 @@
+{
+  "name": "AI Story Creator",
+  "description": "An interactive AI-powered creative storytelling platform with custom genres, character forge, story continuation, illustrations, and reader library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
